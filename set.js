@@ -7,11 +7,11 @@ const databasePath = path.join(__dirname, './database.db');
 const DATABASE_URL = process.env.DATABASE_URL === undefined
     ? databasePath
     : process.env.DATABASE_URL;
-module.exports = { session: process.env.SESSION_ID || 'ezra',CLOUD-AI~IchmkJga#xl1AyVlss59ogXXBzf5u6kQBpan5UxuPVmwjvBlt0_E
+module.exports = { session: process.env.SESSION_ID || 'ezra'CLOUD-AI~gMoCibJY#Q1Iaxc5eAgOoB3tYniiX5d-jKxaZZQlRLrv2ks82jMA
     PREFIXE: process.env.PREFIX || "+",
     GITHUB : process.env.GITHUB|| 'https://github.com/Fred1e/LUCKY_MD',
-    OWNER_NAME : process.env.OWNER_NAME || "Fredi",
-    NUMERO_OWNER : process.env.NUMERO_OWNER || "254742905145 
+    OWNER_NAME : process.env.OWNER_NAME || "stepper",
+    NUMERO_OWNER : process.env.NUMERO_OWNER || "254732849780
               
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
